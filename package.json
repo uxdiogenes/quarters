@@ -1,0 +1,29 @@
+{
+  "name": "quarters",
+  "version": "0.0.1",
+  "description": "A set of utilities for dealing with quarters of the year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uxdiogenes/quarters.git"
+  },
+  "keywords": [
+    "quarters",
+    "year",
+    "fiscal",
+    "q1",
+    "q2",
+    "q3",
+    "q4"
+  ],
+  "author": "Diogenes Brito <d+code@uxdiogenes.com> (http://uxdiogenes.com/)",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c5031e5f5fc4ed442a016c902a2a2011553228b9",
+  "bugs": {
+    "url": "https://github.com/uxdiogenes/quarters/issues"
+  }
+}
